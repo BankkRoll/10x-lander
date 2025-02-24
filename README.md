@@ -1,4 +1,4 @@
-# 10x-lander
+# PMF of DIE
 
 A clean one-pager built for **PMF or Die**, featuring **a live embed, modern UI, and fluid animations**.  
 
