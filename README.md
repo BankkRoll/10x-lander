@@ -11,7 +11,7 @@ A clean one-pager built for **PMF or Die**, featuring **a live embed, modern UI,
 
 ## 🎨 Tech Stack
 
-- **Next.js (Pages Router)**
+- **Next.js**
 - **TypeScript**
 - **Tailwind CSS + shadcn**
 - **Framer Motion** (animations)
